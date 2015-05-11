@@ -1,0 +1,285 @@
+.dynamitmenu
+{
+	clear : both;
+	text-align : center;
+	padding-bottom : 10px;
+}
+.pagination
+{
+	display : inline ; 
+	padding-left : 0;
+	margin : 20px 0;
+	border-radius : 4px;
+}
+.pagination > li
+{
+	display : inline ; 
+}
+.pagination > li > a
+.pagination > li > span 
+{
+	position : relative ;
+	clear : both ;
+	padding : 6px 12px ;
+	margin-left : -1px;
+	line-height : 1.428571429;
+	text-decoration : none ;
+	background-color : white ; 
+	border : 1px solid #dddddd;
+}
+.testbirth
+{
+	width : 40px;
+}
+.searchadvance
+{
+	width : 250px;
+	clear : both ; 
+	margin : 10px auto;
+	border : 1px solid black;
+	padding-top : 20px;
+	padding-bottom : 10px;
+	background-color:white;
+}
+#wrap
+{
+		margin : 0 auto;
+		width : 1020 px ;
+		height : auto;
+		background-color : white;
+}
+#menu
+{
+		clear : both;
+		width: 1011px;
+		height: 50px;
+		background-color:white;
+		border: 5px double pink;
+}
+#baner
+{
+		clear : both;
+		width : 1020px;
+		height : 274px;
+		background-image:url('header1.png');
+		background-color : white;
+		border-top-left-radius:2em;
+		-webkit-border-top-left-radius:2em; /* Safari */
+		border-top-right-radius:2em;
+		-webkit-border-top-right-radius:2em;
+}
+#baner_left
+{
+		float : left ; 
+		width : 100px;
+		height :100px;
+		padding-top : 150px;
+}
+#baner_right
+{
+		float : right ; 
+		width : 680px ;
+		padding-top : 200px;
+		text-align : right;
+		
+}
+#slider
+{
+	float : left;
+	width : 700px;
+	height : 760px;
+}
+#order 
+{
+	float : right ; 
+	width : 300px;
+	height : 760px;
+}
+#homepage
+{
+	clear : both;
+	width : 1020px;
+}
+#new
+{
+	clear : both ;
+	width : 700px;
+	height : 300px;
+}
+#newleft
+{
+	float : left ;
+	width : 398px;
+	hegiht : 300px;
+}
+#new1 , #new2
+{
+	clear : both;
+	width : 398px;
+	height : 150px;
+	border : 1px double black ;
+}
+#newright
+{
+	float : right ; 
+	width : 298px;
+	height : 301px;
+	border : 1px double black ;
+}
+.right_
+{
+	padding-left: 100px;
+}
+#foot
+{
+	margin-top : 20px;
+	clear : both;
+	width : 1020px;
+	height : 50px;
+	border : 2px solid black;
+}
+
+.menu
+{
+	display : inline;
+	padding : 2px;
+	background-color : white;
+}
+.menuul
+{
+	list-style-type:none;
+}
+body
+{
+		display : table-cell;
+		vertical-align: center;
+		background-image:url('background.png');
+		background-position: center top;
+		background-repeat: repeat;
+		font-family:Cambria, Georgia, "Times New Roman", Times, serif;
+}
+html , body 
+{
+	height : 100%;
+}
+html 
+{
+	display : table ;
+	margin : auto;
+}
+#form_register
+{
+	width: 1020;
+	text-align: center;
+	padding-left : 25%;
+	padding-top : 10px;
+}
+a.tooltip strong {line-height:30px;}
+a.tooltip:hover {text-decoration:none;} 
+a.tooltip span {
+    z-index:10;display:none; padding:14px 20px;
+    margin-top:-30px; margin-left:28px;
+    width:240px; line-height:16px;
+}
+a.tooltip:hover span{
+    display:inline; position:absolute; color:#111;
+    border:1px solid #DCA; background:#fffAF0;}
+.callout {z-index:20;position:absolute;top:30px;border:0;left:-12px;}
+    
+/*CSS3 extras*/
+a.tooltip span
+{
+    border-radius:4px;
+    -moz-border-radius: 4px;
+    -webkit-border-radius: 4px;
+        
+    -moz-box-shadow: 5px 5px 8px #CCC;
+    -webkit-box-shadow: 5px 5px 8px #CCC;
+    box-shadow: 5px 5px 8px #CCC;
+}
+div.img 
+{
+	float : left;
+	margin-left : 15px;
+	height : 350px;
+	padding-top : 10px;
+}
+div.plusmore 
+{
+	float : left;
+	width : 200px;
+	padding-top : 10px;
+	padding-bottom : 10px;
+	text-align : center;
+}
+div.desc
+{
+  text-align: center;
+  font-weight: normal;
+  width: 220px;
+  margin-left: 0px;
+}
+#product
+{
+	clear : both ; 
+	width : 1020px;
+	margin : 0 auto;
+	margin-top : 10px;
+	text-algin : left ;
+}
+#hinhanhproduct
+{
+	float : left ;
+	width : 400px;
+	margin : 0 auto ; 
+}
+.avatarproduct
+{
+	width : 400px;
+	height : 500px;
+}
+#contentproduct
+{
+	float : right ; 
+	width : 600px;
+	margin : 0 auto ; 
+	padding-left : 10px;
+	border : 1px solid black;
+}
+.icon
+{
+	width : 20px;
+}
+#comment
+{
+	width : 1020px;
+	clear:both;
+	margin : 0 auto;
+	text-align: left;
+}
+.commentbox
+{
+	width : 520px;
+	clear : both;
+	margin-right: 100px;
+	padding :10px 10px 10px 10px;
+	text-align : left;
+	border : 1px solid black ;
+	border-radius : 20px;
+	background-color : white;
+}
+.username
+{
+	color : red ; 	
+}
+.product
+{
+	width : 200px;
+	height : 200px;
+	margin : 0 auto;
+}
+#form_login
+{
+	width : 1020px;
+	text-align : center;
+}
